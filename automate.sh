@@ -3,3 +3,4 @@ apt install ssh -y
 apt install nmap -y
 apt install scp -y
 apt install zip -y
+mkdir nmap
