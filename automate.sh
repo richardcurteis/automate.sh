@@ -1,6 +1,7 @@
-python -c 'import pty; pty.spawn("/bin/bash")'
-apt install ssh -y
-apt install nmap -y
-apt install scp -y
-apt install zip -y
-mkdir nmap
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACCVRif2Gq1WaopYndeQF88Tk1ku19XagyV4jUXBT2Qu7QAAAKCJshoCibIa
+AgAAAAtzc2gtZWQyNTUxOQAAACCVRif2Gq1WaopYndeQF88Tk1ku19XagyV4jUXBT2Qu7Q
+AAAEDpvDNsDeIGIMUasEP4t1SafeP/DfhdnroK5c3ebwU21JVGJ/YarVZqilid15AXzxOT
+WS7X1dqDJXiNRcFPZC7tAAAAFnJpY2hhcmRAcmVhbGl6ZXNlYy5jb20BAgMEBQYH
+-----END OPENSSH PRIVATE KEY-----
